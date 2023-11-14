@@ -4,8 +4,6 @@
 
 ## Requirements
 
-Check project requirements from here : **[CLICK HERE](https://github.com/kishanrajput23/Training-Schedule-Management/blob/main/Project_Flies/docs/requirements_doc.md)** 👈
-
 ## Navigation Plan & File Structure
 
 <img src="https://github.com/kishanrajput23/Training-Schedule-Management/blob/main/Project_Flies/docs/navigation_plan1.png" alt="">
